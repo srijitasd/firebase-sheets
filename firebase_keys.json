@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "civic-eye-319109",
+  "private_key_id": "20a50c01441e811559a366215e7f0a4d8f933309",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDJYpd/jrHwMz0P\nqgQqJuZGTRdHwGtQz4a96awHlPJT8T0I31FdrhYNcEkw0cEQzt5ubgjWQjV2g1Pw\nmr06WSr0r4MgFrNm6+gZLOocXYxpVTMV8Akge5jA4VAIPpZgNNN4GZTG/EFru4zW\nEZhD6YbRdNhymi4whUoMlXHn5ZTEgJSDcRgWPE5MA3e/iPyZKYYEse6/mgke8BpO\n5F5NgySLhyfbTYFJt0umJB9R1ehk9oNQbyz8WOu5FRW/xZytUBUMP6WOzY0fL5va\nsLhPltcRNtxnL49I5rCH3fXMgtAa3f2kBUXgalTWbf9Y2/4LoYcjUGEG/AEStjzz\nhxzH9S+nAgMBAAECggEAL4fhke2v+a1eQBA0o25C81zGndzAd3ZDqxc3zyJMf5t0\neF+c6Ktp8QoLfEZFdx4cSZwW4dsGm04rxaH//4GELfQu0qgI98W+JhL/vmol9cZy\nJD9fKBeD2iJTrV54R4SwVKxU/RIUrsS5XN0SPxUjCNS3MXVKaZFMBORQ2hbJogb7\nUiZhgyAXIr4TpNAI+e6AEYSMHpVRAg707J8YbIJRbdlpk9dtSXcC1DymRHiTY5C+\nSxboqB4h7gGrKlJOL38biE3rkeH73KPtM3FmjFx7Nb2AyQ73RLNbkTTuAnIezscx\nYxjTjrFt+A/wq7aS/xG2dnGfeazqInDazTjsEf/2QQKBgQD6oaC6d1RD7dsbDRIS\nlMhDMX1itVbEHxxkORW/2i/maWkO0/av+abBOekeKBxc1yoORd51i72wl9V6q3FQ\nQW4qT1BCCrIgqFlrFxPK/73LD/H4UVK2Qq5EyJyt569jBBnU6Zs0J/w6eG4HC8Ge\nAlg2aJipsLzWQJJqZEjgFcBNjwKBgQDNsupSeVgD9zHbBwI870U5jnptqwqsnVH5\nSU+xp8b/G2JcVaN1veMwIwVGIEb0BFzgnvftrLyx5Ht/mygiSaKUFySuykEyGPeG\ngU1z3qjs/GyzyEdtHzNzjKtIK0MFRUXHPfxUdYzxGWJEPVwRbaK6UVLtGpfQVaHZ\nWAkwRKSgaQKBgQCfrb4TTtd29+GymF89S2FTvgIek14WUaPrDpuWwdHmwJ3Yfp8a\neroNPXISboezdroqocUbqs5N5k5yeywUb7taZXHCwcG/IMLngapwmQM4jo4hIN7L\nlCwnUpDQE14gfYpfpf3l+tut/PBMuObAXsoI0BcDdcC52CXwdrgfXHxKbQKBgQC+\n2/jRx6ekHlRTH2CzO2vm6M2uPlssKNjrzls0wzFAeZ89f3SpBiTsAEKfe8l6FyY6\ngSYYkQOQqCjzEPsfPWWttP+jcyUlH8dkNUuxbHMfWWRfOEEV/jJWT7qJvyJznIAP\nS/N6RowdFWl5Wdm4jhrEeDrSp68fbqU7LpVwBPEfqQKBgFXF8p5n93m43YIo0pWu\n0Y2PfQimUnhqc0JdyQVs1bPTL4sRJo0qng7RH3CMFbUrQCYg68h33N+AyTq83wJa\nTaf7n0GkIWRVyVaDPQsH0RhaCBT1WbUPK9OfLF4w+o3WlU8gwzOBc7D98lkbPYaT\nd7jSe4uB6KHszYdC3QBdGUHv\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-a9o7o@civic-eye-319109.iam.gserviceaccount.com",
+  "client_id": "107410881773400011019",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-a9o7o%40civic-eye-319109.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
